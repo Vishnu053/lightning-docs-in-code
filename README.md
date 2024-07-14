@@ -20,9 +20,9 @@ The **VSCode LightningJS Extension** allows you to open the LightningJS website 
 2. Type `Open LightningJS` and press `Enter`.
 3. The LightningJS website will open in a split window to the right.
 
-## Requirements
+## Build
 
-No additional requirements.
+Run `vsce package --no-dependencies`
 
 ## Extension Settings
 
