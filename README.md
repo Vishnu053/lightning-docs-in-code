@@ -11,8 +11,8 @@ The **VSCode LightningJS Extension** allows you to open the LightningJS website 
 
 ## Installation
 
-1. Press `F1` to open the Command Palette.
-2. Type `ext install your-publisher-name.vscode-lightningjs` and press `Enter`.
+1. Use `ext install` command or extension menu of Visual Studio Code to install. 
+2. The extension can be found in : https://marketplace.visualstudio.com/items?itemName=VishnuMohan.lightning-docs-in-code
 
 ## Usage
 
